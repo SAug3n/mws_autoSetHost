@@ -7,6 +7,8 @@
 
 python mws_autoSetHost.py
 
+ps:需要给steam的快捷方式设置 -community="https://steamcommunity.com" 才能够直接在客户端里访问社区。
+
 修改xxxx的host:
 
 python mws_autoSetHost.py xxxxxx
