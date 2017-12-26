@@ -1,0 +1,2 @@
+# mws_autoSetHost
+基于ping.chinaz.com的自动改host，不输入参数的情况下默认改steam社区的host
